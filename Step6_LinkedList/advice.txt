@@ -1,0 +1,12 @@
+Advice 1:
+
+Always picturize the nodes of the LL in your mind. This way, it is easy to visualize where to point the back or next or both of the new or old nodes while deleting or inserting or whatever. 
+
+Once you visualize, it is super simple to know how to connect and what to connect and then do it one after the other in the order which is required to not undergo any loss of information.
+
+Advice 2:
+
+It is very important to practice in different environments. 
+Make sure to always check out what is the class or struct definition in the compiler environment of the online assessment. 
+
+It is very important that we get used to the different online assessment environments.
