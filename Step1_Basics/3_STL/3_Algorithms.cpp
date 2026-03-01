@@ -8,7 +8,7 @@ bool comp(pair<int,int> p1, pair<int,int> p2){ // two adjacent elements of the a
         return true; // they are in the correct order
     }
     else if (p1.second == p2.second){
-        if(p1.second > p2.second) return true;
+        if(p1.first > p2.first) return true;
     }
     return false; // they are not in the correct order
     // so by returning false, it says to swap them

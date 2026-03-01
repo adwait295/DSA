@@ -76,7 +76,7 @@ Node* reversedLinkedList(Node* head){
     return prev; // because at the end of the while loop, 'prev' will be standing at the last node of the initial LL which is our new head of the reversed LL. 
 
     // T.C. = O(n)
-    // S.C. = O(1)
+    // S.C. = O(1) because we are just changing the links.
 }
 
 int main(){
